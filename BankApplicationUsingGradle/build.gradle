@@ -8,7 +8,7 @@ apply plugin :'java'
 
 
 //apply plugin: 'sonar-runner'
-//repositories
+repositories
 {
    maven
    {
